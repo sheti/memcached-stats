@@ -1,0 +1,4 @@
+﻿MEMCAHED stats
+=====
+
+Статистика memcached
